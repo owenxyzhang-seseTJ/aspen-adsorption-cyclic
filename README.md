@@ -60,5 +60,4 @@ places where it is tempting to blur the two.
 
 ## Licence
 
-No licence file yet. Until one is added, default copyright applies; open an issue
-if you want a specific licence.
+MIT. See [LICENSE](LICENSE).
